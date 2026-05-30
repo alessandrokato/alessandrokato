@@ -33,6 +33,7 @@ A decision-support dashboard that turns business criteria into segment rankings,
 
 ### 2. Renewable Energy FP&A / Business Control Model
 **Stack:** Excel · Power Query · PivotTables · variance analysis · scenario modelling · synthetic portfolio data
+**Repo:** https://github.com/alessandrokato/renewable-energy-fpna-performance-model
 
 A monthly performance model for a renewable-energy asset portfolio: actual vs. budget vs. forecast across revenue, OpEx, EBITDA, production volume, utilization, and downtime, with variance analysis and scenario assumptions feeding a management dashboard.
 
